@@ -13,4 +13,4 @@ Projeto desenvolvido junto ao curso JavaScript: consumindo e tratando dados de u
 
 ## Detalhes do projeto
 
-Projeto desenvolvido a fim de praticar o uso do *fetch()*, *Promises* e seus métodos, além de funções assíncronas e do operador *await*. Com isso foi possível buscar informações de uma API com base em dados fornecidos pelo usuário para validação e auxílio no preenchimento de um formulário.
+Projeto desenvolvido a fim de praticar o uso do *fetch()*, *Promises* e seus métodos, além de funções assíncronas e do operador *await*. Com isso foi possível buscar informações de uma API(ViaCEP) com base em dados fornecidos pelo usuário para validação e auxílio no preenchimento de um formulário.
