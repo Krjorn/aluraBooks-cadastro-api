@@ -5,7 +5,7 @@ Projeto desenvolvido junto ao curso JavaScript: consumindo e tratando dados de u
 | :placard: Vitrine.Dev ||
 | ------------- | --- |
 | :sparkles: Nome | **AluraBooks - formulário**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | JavaScript, HTML, CSS
 | :rocket: URL | https://krjorn.github.io/aluraBooks-cadastro-api/
 | :fire: Desafio | https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api
 
